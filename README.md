@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Park-Joyeong
-- 👀 I’m interested in play the guitar 
-- 🌱 I’m currently learning react, algorithm
-- 💞️ I’m looking to collaborate on null
-- 📫 How to reach me drhamst@gmail.com
-
-<!---
-Park-Joyeong/Park-Joyeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello. I'm Joyeong.<br/>
+From south korea.<br/>
+I wanna be a software engineer.<br/>
+As you can see, i have zero..<br/>
+But i'll keep coding!<br/>
+Let's do this!<br/>
+<br/>
+<br/>
+※Why i using english not a korean<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm not a good english speaker.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;But all the computer languages, tools, etcs.. made english.<br/>
+So i try to use english.
