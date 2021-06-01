@@ -1,8 +1,8 @@
 Hello. I'm Joyeong.<br/>
 From south korea.<br/>
 I wanna be a software engineer.<br/>
-As you can see, i have zero..<br/>
-But i'll keep coding!<br/>
+But as you can see, i have zero.<br/>
+But i'll keep coding.<br/>
 Let's do this!<br/>
 <br/>
 <br/>
