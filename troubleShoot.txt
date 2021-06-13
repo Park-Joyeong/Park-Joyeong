@@ -1,0 +1,6 @@
+=====================
+Can't run 'bundle exec jekyll serve --livereload' command In windows 10
+Then
+add this " gem 'eventmachine', '~> 1.0.0' " in Gemfile
+and run command "bundle update eventmachine"
+=====================
