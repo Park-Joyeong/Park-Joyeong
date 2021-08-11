@@ -28,7 +28,8 @@ url: "https://park-joyeong.github.io" # the base hostname & protocol for your si
 github_username:  Park-Joyeong
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
