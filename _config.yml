@@ -27,6 +27,9 @@ url: "https://park-joyeong.github.io" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 github_username:  Park-Joyeong
 
+# only get the first sentence for the excerpt
+excerpt_separator: .
+
 # Fields minima uses, but are not defaulted with the jekyll new command.
 # Author is the default for posts, the Atom feed, and is used in the footer.
 author: Park Joyeong
